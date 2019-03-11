@@ -1,0 +1,7 @@
+version: '3'
+services:
+  review:
+    volumes:
+      - .:/ReVIEW-Template
+    build: .
+    working_dir: /ReVIEW-Template
