@@ -2,6 +2,6 @@ version: '3'
 services:
   review:
     volumes:
-      - .:/ReVIEW-Template
+      - .:/happyFutureOfTechBooks
     build: .
-    working_dir: /ReVIEW-Template
+    working_dir: /happyFutureOfTechBooks

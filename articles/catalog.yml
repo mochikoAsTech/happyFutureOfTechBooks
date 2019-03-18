@@ -1,10 +1,15 @@
 PREDEF:
-  - preface.re
+# はじめに
+  - introduction.re
 
 CHAPS:
+# 技術同人誌のハッピーエンド
   - article.re
 
 APPENDIX:
 
 POSTDEF:
+# あとがき
+  - postscript.re
+# 執筆者一覧
   - contributors.re
