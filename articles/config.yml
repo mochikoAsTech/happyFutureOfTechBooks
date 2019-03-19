@@ -22,8 +22,8 @@ bookname: happyFutureOfTechBooks
 language: ja
 
 # 書名
-booktitle: {name: "技術同人誌のハッピーエンドは「出版社の編集者に見初められて商業出版！」だけとは限らないという話", file-as: "ギジュツドウジンシノハッピーエンドハシュッパンシャノヘンシュウシャニミソメラレテショウギョウシュッパンダケトハカギラナイトイウハナシ"}
-subtitle: {name: "特装版", file-as: "トクソウバン"}
+booktitle: {name: "技術同人誌を書いたあなたへ", file-as: "ギジュツドウジンシヲカイタアナタヘ"}
+subtitle: {name: "著者のしあわせなミライ", file-as: "チョシャノシアワセナミライ"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "mochikoAsTech", file-as: "モチコアズテック"}]
