@@ -3,8 +3,12 @@ PREDEF:
   - introduction.re
 
 CHAPS:
-# 技術同人誌のハッピーエンド
-  - article.re
+# 技術書典で王子様との出会い
+  - article01.re
+# 思い描いていた商業出版のメリットとその実態
+  - article02.re
+# 商業出版で著者は何を失うのか？
+  - article03.re
 
 APPENDIX:
 

@@ -89,7 +89,7 @@ rights: (C) 2019 mochikoAsTech
 debug: null
 
 # 固有IDに使用するドメイン。省略した場合は時刻に基づくランダムUUIDが入る
-urnid: urn:uid:https://github.com/mochikoAsTech/startWriting
+urnid: urn:uid:https://github.com/mochikoAsTech/happyFutureOfTechBooks
 #
 # ISBN。省略した場合はurnidが入る
 # isbn: null
@@ -328,7 +328,7 @@ texstyle: ["reviewmacro"]
 # A5の設定(9pt 38文字×37行) - 紙版
 # texdocumentclass: ["review-jsbook", "media=print,paper=a5,serial_pagination=true,hiddenfolio=nikko-pc,openany,fontsize=9pt,baselineskip=13pt,line_length=38zw,number_of_lines=37,head_space=15mm,headsep=3mm,headheight=5mm,footskip=10mm"]
 # A5の設定(9pt 38文字×37行) - 電子版
-texdocumentclass: ["review-jsbook", "media=ebook,paper=a5,serial_pagination=true,openany,fontsize=9pt,baselineskip=13pt,line_length=38zw,number_of_lines=37,head_space=15mm,headsep=3mm,headheight=5mm,footskip=10mm"]
+texdocumentclass: ["review-jsbook", "media=ebook,paper=a5,serial_pagination=true,fontsize=9pt,baselineskip=13pt,line_length=38zw,number_of_lines=37,head_space=15mm,headsep=3mm,headheight=5mm,footskip=10mm"]
 #
 # LaTeX用のコマンドを指定する
 # texcommand: "uplatex"
