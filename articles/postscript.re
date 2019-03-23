@@ -26,6 +26,7 @@ mochikoAsTech
  * ひつじ @mhidaka
  * わかめ @vvakame
  * 高橋征義 @takahashim
+ * Hikaru Wakamatsu
 
 === レビュアー
 

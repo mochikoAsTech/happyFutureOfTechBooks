@@ -9,8 +9,5 @@
  * @<href>{https://twitter.com/mochikoAsTech}
  * @<href>{https://mochikoastech.booth.pm/}
 
-==== Hikaru Wakamatsu
-表紙デザインを担当。
-
 ==== Shinya Nagashio
-挿絵デザインを担当。
+表紙デザインを担当。
