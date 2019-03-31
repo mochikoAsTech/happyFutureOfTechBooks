@@ -12,7 +12,7 @@
 
 たくさんの技術者が、だれに頼まれた訳でもないのに、好きな技術を早口でぎゅぎゅっと詰め込んだ自作の「技術書」（いわゆる同人誌）をもって集まる、技術書の「お祭り」のようなイベントです。（@<img>{happyFuture1}@<fn>{nhk}）
 
-//image[happyFuture1][文系も知りたい「技術書典」 | NHKニュース][scale=0.8]{
+//image[happyFuture1][文系も知りたい「技術書典」 | NHKニュース][scale=0.6]{
 //}
 
 //footnote[nhk][@<href>{https://www3.nhk.or.jp/news/html/20181011/k10011667311000.html} より引用]
@@ -20,7 +20,7 @@
 本当にだれに頼まれた訳でもないのに、おおよそ@<ttb>{500ものサークル}が集まって、うち@<ttb>{95.4%が新刊を携えて}おり、それを@<ttb>{10,000人以上が買いに来て}、たった@<ttb>{1日で7,500万円分の技術書が流通}@<fn>{oneDay}するという恐ろしいイベントです。（@<img>{happyFuture2}@<fn>{maney}）
 
 //footnote[oneDay][しかも1日といっても11時～17時のたった6時間です。]
-//image[happyFuture2][1日に7,500万円分の技術書が流通する「技術書典」の仕組みと挑戦][scale=0.8]{
+//image[happyFuture2][1日に7,500万円分の技術書が流通する「技術書典」の仕組みと挑戦][scale=0.6]{
 //}
 
 //footnote[maney][@<href>{https://hikakujoho.com/life/91846000004650} より引用]
@@ -43,14 +43,14 @@
 
 そんな中、筆者は技術書典4に「DNSをはじめよう」という本を400冊持ち込んで2時間で完売しました。（@<img>{happyFuture3}@<fn>{dns}）
 
-//image[happyFuture3][初めて書いたDNS本が初参加の技術書典4で750冊売れた話][scale=0.8]{
+//image[happyFuture3][初めて書いたDNS本が初参加の技術書典4で750冊売れた話][scale=0.6]{
 //}
 
 //footnote[dns][@<href>{https://mochikoastech.hatenablog.com/entry/2018/04/26/012240}]
 
 そして半年後の技術書典5では続編の「AWSをはじめよう」を加えた2,200冊以上を持ち込み、2,000冊以上を売り切りました。（@<img>{happyFuture4}@<fn>{aws}）
 
-//image[happyFuture4][技術書典5で1500冊持ち込んだAWSをはじめようが売れ残って嬉しかった話と「転職活動はじめます」という話][scale=0.8]{
+//image[happyFuture4][技術書典5で1500冊持ち込んだAWSをはじめようが売れ残って嬉しかった話と「転職活動はじめます」という話][scale=0.6]{
 //}
 
 //footnote[aws][@<href>{https://note.mu/mochikoastech/n/n3fe11ea0a282}]
